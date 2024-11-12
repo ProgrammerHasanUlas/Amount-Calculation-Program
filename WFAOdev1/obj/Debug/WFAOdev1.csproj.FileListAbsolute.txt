@@ -1,0 +1,10 @@
+C:\Users\Hasan Ulaş\source\repos\WFAOdev1\WFAOdev1\bin\Debug\WFAOdev1.exe.config
+C:\Users\Hasan Ulaş\source\repos\WFAOdev1\WFAOdev1\bin\Debug\WFAOdev1.exe
+C:\Users\Hasan Ulaş\source\repos\WFAOdev1\WFAOdev1\bin\Debug\WFAOdev1.pdb
+C:\Users\Hasan Ulaş\source\repos\WFAOdev1\WFAOdev1\obj\Debug\WFAOdev1.csproj.AssemblyReference.cache
+C:\Users\Hasan Ulaş\source\repos\WFAOdev1\WFAOdev1\obj\Debug\WFAOdev1.Form1.resources
+C:\Users\Hasan Ulaş\source\repos\WFAOdev1\WFAOdev1\obj\Debug\WFAOdev1.Properties.Resources.resources
+C:\Users\Hasan Ulaş\source\repos\WFAOdev1\WFAOdev1\obj\Debug\WFAOdev1.csproj.GenerateResource.cache
+C:\Users\Hasan Ulaş\source\repos\WFAOdev1\WFAOdev1\obj\Debug\WFAOdev1.csproj.CoreCompileInputs.cache
+C:\Users\Hasan Ulaş\source\repos\WFAOdev1\WFAOdev1\obj\Debug\WFAOdev1.exe
+C:\Users\Hasan Ulaş\source\repos\WFAOdev1\WFAOdev1\obj\Debug\WFAOdev1.pdb
